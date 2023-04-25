@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Lowkey-wizard", "Calculator.Lowkey-wizard.csproj", "{F932FBB2-FD17-4EC0-AB62-19EC7C171C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{F1E38F06-EF8F-4357-AE24-E1B2567A2ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F932FBB2-FD17-4EC0-AB62-19EC7C171C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F932FBB2-FD17-4EC0-AB62-19EC7C171C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F932FBB2-FD17-4EC0-AB62-19EC7C171C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F932FBB2-FD17-4EC0-AB62-19EC7C171C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E38F06-EF8F-4357-AE24-E1B2567A2ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E38F06-EF8F-4357-AE24-E1B2567A2ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E38F06-EF8F-4357-AE24-E1B2567A2ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E38F06-EF8F-4357-AE24-E1B2567A2ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812B3B64-1A1A-42F1-BCA3-F58B9BC06B4E}
+	EndGlobalSection
+EndGlobal

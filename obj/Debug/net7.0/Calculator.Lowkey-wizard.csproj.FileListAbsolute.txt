@@ -1,0 +1,16 @@
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\Calculator.Lowkey-wizard.exe
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\Calculator.Lowkey-wizard.deps.json
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\Calculator.Lowkey-wizard.runtimeconfig.json
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\Calculator.Lowkey-wizard.dll
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\Calculator.Lowkey-wizard.pdb
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\Calculator.Lowkey-wizard.csproj.AssemblyReference.cache
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\Calculator.Lowkey-wizard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\Calculator.Lowkey-wizard.csproj.CoreCompileInputs.cache
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\Calculator.Lowkey-wizard.dll
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\refint\Calculator.Lowkey-wizard.dll
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\Calculator.Lowkey-wizard.pdb
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\Calculator.Lowkey-wizard.genruntimeconfig.cache
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\ref\Calculator.Lowkey-wizard.dll
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\CalculatorLibrary.dll
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\CalculatorLibrary.pdb
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\Calculator.Lowkey-wizard.csproj.CopyComplete
