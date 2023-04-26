@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FUJEIGvShFEkDXmJhOUSo8vdQCr4z8wRpHHlA9IzoMR8lSpfKaXR8y6gndN/BkRNpR7REBHZQyPNZNRmvqkceQ==",
+  "dgSpecHash": "R7bSYjozv3bVFIjwIwlo621X6sZ1xh/BwuIIfqcUkyU238XtRxsUt/zvVr+GQ0CEB8czBSWqvGHL9gwd2bIYYw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "projectFilePath": "C:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ags\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

@@ -46,13 +46,21 @@ namespace CalculatorProgram
                 Console.WriteLine("\ts - Subtract");
                 Console.WriteLine("\tm - Multiply");
                 Console.WriteLine("\td - Divide");
+                Console.WriteLine("\tp - Power");
+                Console.WriteLine("\tr - Square Root");
+                Console.WriteLine("\tc - Circles");
+                Console.WriteLine("Or choose to look at previous calculation history - h");
                 Console.Write("Your option? ");
 
                 string? op = Console.ReadLine();
 
                 try
                 {
-                    if (op != null)
+                    if(op?.Trim().ToLowerInvariant() == "h")
+                    {
+                        calculator.DisplayHistory();
+                    }
+                    else if (op != null)
                     {
                         result = calculator.DoOperation(cleanNum1, cleanNum2, op);
                         if (double.IsNaN(result))

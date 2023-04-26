@@ -14,3 +14,4 @@ C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\ref\Calculat
 C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\CalculatorLibrary.dll
 C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\CalculatorLibrary.pdb
 C:\Users\ags\source\repos\Calculator.Lowkey-wizard\obj\Debug\net7.0\Calculator.Lowkey-wizard.csproj.CopyComplete
+C:\Users\ags\source\repos\Calculator.Lowkey-wizard\bin\Debug\net7.0\Newtonsoft.Json.dll

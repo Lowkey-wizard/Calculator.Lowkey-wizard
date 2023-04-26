@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj": {}
+    "C:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+    "C:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "projectName": "CalculatorLibrary",
-        "projectPath": "c:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectPath": "C:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "packagesPath": "C:\\Users\\ags\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ags\\source\\repos\\Calculator.Lowkey-wizard\\CalculatorLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

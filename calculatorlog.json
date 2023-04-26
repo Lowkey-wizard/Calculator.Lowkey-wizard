@@ -1,0 +1,29 @@
+{
+  "Operations": [
+    {
+      "Operand1": 324.0,
+      "Operand2": 46.0,
+      "Operation": "Divide",
+      "Result": 7.04
+    },
+    {
+      "Operand1": 54.32,
+      "Operand2": 576.21,
+      "Operation": "Multiply",
+      "Result": 31299.73
+    },
+    {
+      "Operand1": 34.0,
+      "Operand2": 74.0,
+      "Operation": "Circle Circumference",
+      "Chosen Number": 74.0,
+      "Result": 464.96
+    },
+    {
+      "Operand1": 32.0,
+      "Operand2": 32.0,
+      "Operation": "Add",
+      "Result": 64.0
+    }
+  ]
+}

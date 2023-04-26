@@ -1,0 +1,10 @@
+{
+  "Operations": [
+    {
+      "Operand1": 32.0,
+      "Operand2": 45.0,
+      "Operation": "Circle Diameter",
+      "Result": "NaN"
+    }
+  ]
+}
